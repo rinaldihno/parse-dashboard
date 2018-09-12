@@ -1,9 +1,9 @@
 {
   "apps": [{
-    "serverURL": "http://localhost:1337/parse",
-    "appId": "hello",
-    "masterKey": "world",
-    "appName": "",
+    "serverURL": "https://bonsaiparsetest.herokuapp.com/parse",
+    "appId": "bonsaiparse",
+    "masterKey": "123456",
+    "appName": "BonsaiParse",
     "iconName": "",
     "primaryBackgroundColor": "",
     "secondaryBackgroundColor": ""
